@@ -1,5 +1,8 @@
 <h1 align="center">NG-ALAIN ~ Electron</h1>
 
+## run 
+    1 npm run build
+    2 electron . 
 
 ## change list : ng-alain 8.4 & electron
 
